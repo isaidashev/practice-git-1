@@ -4,3 +4,5 @@ Moscow is the capital of Russia
 x
 
 Paris is the capital of France
+Diff to stage
+Diff to stage 2
